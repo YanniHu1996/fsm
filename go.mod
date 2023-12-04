@@ -1,3 +1,3 @@
-module github.com/JetaimeNotLove/fsm
+module github.com/Yanni1996/fsm
 
-go 1.15
+go 1.21
