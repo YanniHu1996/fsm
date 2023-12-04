@@ -1,16 +1,17 @@
-# 有限状态机
+# Finite State Machine
 
-## 基本概念
+## Basic Concepts
 
-1. from: 表示状态转换的现态
+- from: Represents the current state in a state transition
 
-2. to: 表示状态转换的次态
+- to: Represents the next state in a state transition
 
-3. event: 系统接受的输入 
+- event: Input accepted by the system
 
-4. action: 系统行为
+- action: System behavior
 
-    1. onExit : 离开状态
-    2. onEntry: 进入状态
-    3. OnXXXEvent: 事件触发后
+- onExit: Leaving the state
 
+- onEntry: Entering the state
+
+- OnXXXEvent: After the event is triggered
