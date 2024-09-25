@@ -1,3 +1,3 @@
 module github.com/Yanni1996/fsm
 
-go 1.21
+go 1.24
